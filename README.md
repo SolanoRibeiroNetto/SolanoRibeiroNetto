@@ -12,7 +12,7 @@
  
  Meus contatos:
  
- Linkedin -> https://www.linkedin.com/in/solano-ribeiro-netto
+ Linkedin -> https://www.linkedin.com/in/solano-ribeiro-netto-289b50b3/
  
  Email -> solanoto@hotmail.com
  
