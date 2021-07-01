@@ -1,8 +1,8 @@
 ### Ola a todos. 👋
   Sou ainda um pequeno aprendiz neste vasto universo.
   
-  Atualmente trabalho como desenvolverdor junior na empresa Barco Digital.
-    Implemento componentes em joomla utilizando de PHP e JS.
+  Atualmente trabalho como desenvolverdor junior na empresa Barco Digital Tecnologia.
+    Implemento soluções utilizando PHP - JavaScript - Laravel - Vue.js.
     
     
  Tenho como meta aumentar meu conhecimento no CMS joomla para implementar soluções ainda melhores.
