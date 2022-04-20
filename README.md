@@ -1,16 +1,5 @@
 <h1 align="center">Hi 👋, I'm Solano Ribeiro Netto</h1>
 <h3 align="center">Backend PHP developer, it's never too late to evolve.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=solanoribeironetto&label=Profile%20views&color=0e75b6&style=flat" alt="solanoribeironetto" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=solanoribeironetto" alt="solanoribeironetto" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/solano_netto" target="blank"><img src="https://img.shields.io/twitter/follow/solano_netto?logo=twitter&style=for-the-badge" alt="solano_netto" /></a> </p>
-
-- 💬 Ask me about **PHP, Laravel, Programming Logic**
-
-- 📫 How to reach me **solanoto@hotmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/solano_netto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="solano_netto" height="30" width="40" /></a>
