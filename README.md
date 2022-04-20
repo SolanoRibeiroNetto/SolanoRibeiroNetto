@@ -2,8 +2,6 @@
 
 ## Backend PHP developer, it's never too late to evolve.
 
----
-
 ## Connect with me:
 
 [![GitHub](https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SolanoRibeiroNetto)
